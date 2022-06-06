@@ -103,6 +103,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "692b7fbaf8cb0958",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 3
